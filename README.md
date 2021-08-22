@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @aathertone
-- 👀 I’m interested in ...Programming and Solutions Development, WebApp development, etc...
-- 🛰️ My primary focus at this point is to facilitation of means in generating a form of income that allows me to Live my life in any way that I deem "comfortable"
-- 🌱 I’m currently learning ...
-- 💞 I’m looking to collaborate on ...
-- 📧 How to reach me AAthertone@gmail.com
-
-
-
+- 👋 Hi, I’m _**Austin**_ ~> @aathertone
+- 👀 I’m interested in Programming and Solutions Development, WebApp development, etc...
+- 🛰️ My primary focus is the facilitation of means to generate multiple forms of income 💸 
+- 🧠 I’m delving further into >> Machine/Algo-Learning >> Economics >> Business Management/Development >> etc...💡
+- 💞 I’m looking to collaborate on anything! I'm always up to attempt a challange!
+- 📞 Ways to reach me 📧 AAthertone@gmail.com -- 👻 AAtherton
 - 🌎 I enjoy long walks across the forgotten shore; Following in the footsteps of Arthas.
 
 
